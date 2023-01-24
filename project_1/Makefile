@@ -6,3 +6,5 @@ test: prolific.c
 	./prolific
 prolific: prolific.c
 	gcc -g prolific.c -o prolific
+generation: generation.c
+	gcc -g generation.c -o generation
