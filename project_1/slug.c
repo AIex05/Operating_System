@@ -25,7 +25,7 @@ void main(int argc, char *argv[]) {
 	}
 	else if (!strcmp(argv[1], "1")){
 		
-		FILE *fileP = fopen("seed_slug_1.txt", "r");
+		FILE *fileP = fopen("seed.txt", "r");
 		while (fscanf(fileP, "%s", slugseed)!=EOF){
 			printf("Read seed value: %s\n", slugseed);
 		}
