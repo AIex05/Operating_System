@@ -19,47 +19,11 @@ void main(int argc, char *argv[]) {
 	
 	//secArg = *argv[1];
 	//printf("%d\n", secArg);
-	
-	if (argc != 2){
-		printf("usage syntax: %s (1/2/3/4)", argv[0] );
+	FILE *fileP = fopen("seed.txt", "r");
+	while (fscanf(fileP, "%s", slugseed)!=EOF){
+		printf("Read seed value: %s\n", slugseed);
 	}
-	else if (!strcmp(argv[1], "1")){
-		
-		FILE *fileP = fopen("seed.txt", "r");
-		while (fscanf(fileP, "%s", slugseed)!=EOF){
-			printf("Read seed value: %s\n", slugseed);
-		}
-		fclose(fileP);
-	}	
-	else if (!strcmp(argv[1], "2")){
-	
-		FILE *fileP = fopen("seed_slug_2.txt", "r");
-		while (fscanf(fileP, "%s", slugseed)!=EOF){
-			printf("Read seed value: %s\n", slugseed);
-		}
-		fclose(fileP);
-	
-	}
-	else if (!strcmp(argv[1], "3")){
-	
-		FILE *fileP = fopen("seed_slug_3.txt", "r");
-		while (fscanf(fileP, "%s", slugseed)!=EOF){
-			printf("Read seed value: %s\n", slugseed);
-		}
-		fclose(fileP);
-	
-	}
-	else if (!strcmp(argv[1], "4")){
-	
-		FILE *fileP = fopen("seed_slug_4.txt", "r");
-		while (fscanf(fileP, "%s", slugseed)!=EOF){
-			printf("Read seed value: %s\n", slugseed);
-		}
-		fclose(fileP);
-	
-	}
-	else
-		printf("something went wrong");
+	fclose(fileP);
 		
 	slugseed_int = atoi(slugseed);
 	printf("Read seed value (converted to integer): %d\n", slugseed_int);
