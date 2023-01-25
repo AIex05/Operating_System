@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #include <sys/wait.h>
 #include <string.h>
+#include <time.h>
 
 void Random(int upper, int lower, int *pointer)
 {
@@ -12,6 +13,8 @@ void Random(int upper, int lower, int *pointer)
 
 void main(int argc, char *argv[])
 {
+	struct timespec before;
+	clock_gettime(CLOCK_MONOTONIC, &before);
 
 	char slugseed[10000];
 
@@ -25,7 +28,7 @@ void main(int argc, char *argv[])
 
 	if (argc != 2)
 	{
-		printf("[Slug: %d]: usage syntax: %s (1/2/3/4)",PID , argv[0]);
+		printf("[Slug: %d]: usage syntax: %s (1/2/3/4)\n", PID, argv[0]);
 	}
 	else if (!strcmp(argv[1], "1"))
 	{
@@ -33,7 +36,7 @@ void main(int argc, char *argv[])
 		FILE *fileP = fopen("seed_slug_1.txt", "r");
 		while (fscanf(fileP, "%s", slugseed) != EOF)
 		{
-			printf("[Slug: %d]: Read seed value: %s\n",PID, slugseed);
+			printf("[Slug: %d]: Read seed value: %s\n", PID, slugseed);
 		}
 		fclose(fileP);
 	}
@@ -43,7 +46,7 @@ void main(int argc, char *argv[])
 		FILE *fileP = fopen("seed_slug_2.txt", "r");
 		while (fscanf(fileP, "%s", slugseed) != EOF)
 		{
-			printf("[Slug: %d]: Read seed value: %s\n",PID, slugseed);
+			printf("[Slug: %d]: Read seed value: %s\n", PID, slugseed);
 		}
 		fclose(fileP);
 	}
@@ -53,7 +56,7 @@ void main(int argc, char *argv[])
 		FILE *fileP = fopen("seed_slug_3.txt", "r");
 		while (fscanf(fileP, "%s", slugseed) != EOF)
 		{
-			printf("[Slug: %d]: Read seed value: %s\n",PID, slugseed);
+			printf("[Slug: %d]: Read seed value: %s\n", PID, slugseed);
 		}
 		fclose(fileP);
 	}
@@ -68,10 +71,10 @@ void main(int argc, char *argv[])
 		fclose(fileP);
 	}
 	else
-		printf("something went wrong");
+		printf("[Slug: %d]: something went wrong\n",PID);
 
 	slugseed_int = atoi(slugseed);
-	printf("[Slug: %d]: Read seed value (converted to integer): %d\n",PID, slugseed_int);
+	printf("[Slug: %d]: Read seed value (converted to integer): %d\n", PID, slugseed_int);
 	srand(slugseed_int);
 
 	int delayUpper = 6, delayLower = 1, delay_rNum;
@@ -82,7 +85,7 @@ void main(int argc, char *argv[])
 	int wait_time = delay_rNum;
 	int id = getpid();
 
-	printf("[Slug: %d]: Delay time is %d seconds. Coin flip: %d\n",PID, delay_rNum, coinflip_rNum);
+	printf("[Slug: %d]: Delay time is %d seconds. Coin flip: %d\n", PID, delay_rNum, coinflip_rNum);
 	sleep(wait_time);
 
 	int status;
@@ -93,10 +96,10 @@ void main(int argc, char *argv[])
 	if (coinflip_rNum == 1)
 	{
 
-		printf("[Slug: %d]: Break time is over! I am running the 'last -i -x' command\n",PID);
+		printf("[Slug: %d]: Break time is over! I am running the 'last -i -x' command\n", PID);
 		fileP = popen("last -i -x", "r");
 		if (fileP == NULL)
-			printf("NULL error");
+			printf("[Slug: %d]: NULL error\n", PID);
 
 		while (fgets(path, PATH_MAX, fileP) != NULL)
 			printf("%s\n", path);
@@ -104,35 +107,39 @@ void main(int argc, char *argv[])
 		status = pclose(fileP);
 		if (status == -1)
 		{
-			printf("[Slug: %d]: pclose() error",PID);
+			printf("[Slug: %d]: pclose() error\n", PID);
 		}
 		else
 		{
-			printf("[Slug: %d]: success",PID);
+			printf("[Slug: %d]: success\n", PID);
 		}
 	}
 	else
 	{
 
-		printf("[Slug: %d]: Break time is over! I am running the 'id --group' command\n",PID);
+		printf("[Slug: %d]: Break time is over! I am running the 'id --group' command\n", PID);
 		fileP = popen("id --group", "r");
 		if (fileP == NULL)
-			printf("NULL error");
+			printf("NULL error\n");
 
 		while (fgets(path, PATH_MAX, fileP) != NULL)
-			printf("[Slug: %d]: %s\n",PID, path);
+			printf("[Slug: %d]: %s\n", PID, path);
 
 		status = pclose(fileP);
 		if (status == -1)
 		{
-			printf("pclose() error");
+			printf("pclose() error\n");
 		}
 		else
 		{
-			printf("success");
+			printf("[Slug: %d]: success\n", PID);
 		}
 	}
 
 	/*srand(time(0));
 	Random(*/
+	struct timespec after;
+	clock_gettime(CLOCK_MONOTONIC, &after);
+	int elapse = after.tv_nsec - before.tv_nsec;
+	exit(elapse);
 }
