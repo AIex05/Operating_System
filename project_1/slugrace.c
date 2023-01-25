@@ -15,6 +15,7 @@ int main()
 	char seed[10000];
 	int Random_number[13];
 	int seed_int, counter;
+    int threads[4];
 	FILE *fp = fopen("seed.txt", "r");
 	while (fscanf(fp, "%s", seed) != EOF)
 	{
@@ -33,6 +34,9 @@ int main()
     for (int counter = 1; counter < 5; counter++) {
         if (PID != 0) {
             PID = fork();
+        }
+        if (PID != 0) {
+            threads[counter-1] = PID;
         }
         if (PID == 0) {
             char ct_string[4];
@@ -55,10 +59,18 @@ int main()
             w = waitpid(-1, &status, WNOHANG);
             if (w != 0) {
                 program_ct--;
+                for (int i = 0;i<4;i++) {
+                    if (threads[i] == w) {
+                        threads[i] = -1;
+                    }
+                }
                 struct timespec after;
 	            clock_gettime(CLOCK_MONOTONIC, &after);
 	            elapse = after.tv_nsec - before.tv_nsec;
                 printf("[Parent: %d]: the child %d finished in %d nanosec\n", PID, w, elapse);
+            }
+            if (w == 0) {
+                printf("Still running: %d %d %d %d\n",threads[0],threads[1],threads[2],threads[3]);
             }
             usleep(33000);
         }
