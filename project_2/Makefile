@@ -1,2 +1,2 @@
-test: checkpoint-1_first_try.c
-	gcc -g -pthread checkpoint-1_first_try.c -o checkpoint-1_first_try
+test: project_2_1.c
+	gcc -g -pthread project_2_1.c -o project_2_1
