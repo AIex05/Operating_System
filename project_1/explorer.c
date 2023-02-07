@@ -14,7 +14,7 @@ const char * array[] = {"/home", "/proc", "/proc/sys", "/usr", "/usr/bin", "/bin
 int main()
 {
     char seed[10000];
-    int Random_number[13];
+    int Random_number[5] = {rand(), rand(), rand(), rand(), rand()};
     int seed_int, counter;
     FILE *fp = fopen("seed.txt", "r");
     while (fscanf(fp, "%s", seed) != EOF)
@@ -24,19 +24,17 @@ int main()
     fclose(fp);
     seed_int = atoi(seed);
     srand(seed_int);
-    int upper = 5, lower = 0, Rand_Num, Rand_Num_cp;
-    Random(upper, lower, &Rand_Num);
     printf("It's time for a big world tour\n");
 
-    int PID = 0;
+    int PID = 1;
     char *cmd = "ls";
     char *ary[3] = {"ls", "-tr", NULL};
 
-    for (counter = 0; counter < 6; counter++)
+    for (counter = 0; counter < 5; counter++)
     {
-        if (PID == 0)
+        if (PID != 0)
         {
-            chdir(array[Rand_Num]);
+            chdir(array[Random_number[counter]%6]);
             char buf[1024];
             getcwd(buf, 1024);
             printf("The directory is \n    %s\n", buf);
