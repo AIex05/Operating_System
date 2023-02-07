@@ -1,0 +1,107 @@
+Game: [1 thread running]
+While (1){
+If baseball:
+    Open up baseball checkin
+If football:
+    Open up football checkin 
+If Soccer:
+    Open up soccer checkin
+
+Wait (To_start_game);
+//Play the game
+
+If baseball:
+For 18 (Player_num) times:
+    Up (1 thread to exit)
+    Wait (exited_signal)
+If football:
+For 22 (Player_num) times:
+    Up (1 thread to exit)
+    Wait (exited_signal)
+If Soccer:
+    Do nothing
+
+Wait (Start_new_game?)
+}
+
+Change_Game: [1 thread running]
+Wait(Change game)
+If (Current game is Baseball):
+    change the game to football
+If (Current game is Football):
+    change the game to soccer
+If (Current game is Soccer):
+    change the game to baseball
+Up (Change Game done)
+
+Baseball/Football: [36/44 threads running]
+While(1) {
+Wait (Baseball/Football checkin)
+Lock (limit_22_max_players)
+
+     /-----------------------------------------------------------------------------------------\
+    V                                                                                          |
+Checkin one by one -> Not reach designated player count (Baseball - 18, Football - 22) -> keep loading
+    |
+    V
+Reached 18 
+    |
+    V
+Open the loading block
+
+//Checkout all people
+Wait (1 thread to exit)
+Check in -1 
+If (no one on the field anymore && Time is up) {
+    Up (Change Game)
+    Wait (Change Game done)
+}
+Up (exited_signal)
+
+If (No on on field anymore || Last checkout):
+    Up (Start_new_game?)
+}
+
+Soccer: [44 threads running]
+While(1) {
+Wait (Soccer Checkin)
+Wait (Soccer field limit (22 players))
+
+    /-----------------------------------------------------\
+    V                                                     |
+Check in one by one -> First one to checkin -> Let the second player in; Wait(Soccer player paired) 
+    |                                                                           |
+    V                                                                           V
+Second on to checkin                                                    Player_count + 2;
+    |                                                                           |
+    V                                                                           V
+Up (Soccer player paired)                                               If (I am the first pair in the field):
+    |                                                                        Up (To_start_game)
+    |                                                                            |
+    |                                                                            V
+    |                                                                    Next player checkin
+    |                                                                               |
+    V-------------------------------------------------------------------------------
+Sleep(Play_time)
+
+//Start to checkout
+    /-----------------------------------------------------\
+    V                                                     |
+Checkout one by one -> First one to checkin -> Let the second player in; Wait(Soccer player paired checkout) 
+    |                                                                           |
+    V                                                                           V
+Second on to checkin                                                    Player_count + 2;
+    |                                                                           |
+    V                                                                           V
+Up (Soccer player paired checkout)                                      If (Time passed && I am last pair leaving the field):
+    |                                                                        [Stop letting people checkin (Only when time is up)]
+    |                                                                        Up (Change game)
+    |                                                                        Wait (Change game to finish)
+    |                                                                        Up (Start_new_game?)
+    |                                                                            |
+    |                                                                            V
+    |                                                                    Next player checkin
+    |                                                                            |
+    V----------------------------------------------------------------------------
+Up (Soccer field limit (22 players))
+}
