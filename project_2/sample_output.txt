@@ -1,0 +1,1966 @@
+The seed is 12345
+[Soccer: 1]: There are 0 on field!
+[Soccer: 0]: There are 2 on field!
+[Soccer: 2]: There are 2 on field!
+[Soccer: 8]: There are 4 on field!
+[Soccer: 6]: There are 4 on field!
+[Soccer: 3]: There are 6 on field!
+[Soccer: 10]: There are 6 on field!
+[Soccer: 9]: There are 8 on field!
+[Soccer: 11]: There are 8 on field!
+[Soccer: 5]: There are 10 on field!
+[Soccer: 12]: There are 12 on field!
+[Soccer: 4]: There are 12 on field!
+[Soccer: 7]: There are 12 on field!
+[Field]: Now playing Soccer...
+[Soccer: 15]: There are 14 on field!
+[Soccer: 13]: There are 14 on field!
+[Soccer: 14]: There are 16 on field!
+[Soccer: 18]: There are 16 on field!
+[Soccer: 17]: There are 18 on field!
+[Soccer: 21]: There are 18 on field!
+[Soccer: 20]: There are 20 on field!
+[Soccer: 19]: There are 20 on field!
+[Soccer: 16]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 7]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 3]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: Tired, I am quiting.. 18 still on field
+[Soccer: 24]: There are 18 on field!
+[Soccer: 7]: There are 20 on field!
+[Soccer: 25]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 13]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 20]: There are 22 on field!
+[Soccer: 6]: Tired, I am quiting.. 22 still on field
+[Soccer: 1]: Tired, I am quiting.. 20 still on field
+[Soccer: 1]: There are 20 on field!
+[Soccer: 6]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 18 on field!
+[Soccer: 9]: Tired, I am quiting.. 18 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 7]: Tired, I am quiting.. 22 still on field
+[Soccer: 33]: There are 22 on field!
+[Soccer: 17]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: Tired, I am quiting.. 18 still on field
+[Soccer: 17]: There are 18 on field!
+[Soccer: 7]: There are 20 on field!
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 18 on field!
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 37]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 0]: There are 20 on field!
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: There are 18 on field!
+[Soccer: 21]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: Tired, I am quiting.. 18 still on field
+[Soccer: 3]: There are 18 on field!
+[Soccer: 4]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: Tired, I am quiting.. 18 still on field
+[Soccer: 15]: There are 18 on field!
+[Soccer: 4]: There are 18 on field!
+[Soccer: 27]: There are 20 on field!
+[Soccer: 9]: There are 20 on field!
+[Soccer: 26]: There are 22 on field!
+[Soccer: 7]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 31]: There are 20 on field!
+[Soccer: 7]: There are 22 on field!
+[Soccer: 1]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 1]: There are 20 on field!
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: Tired, I am quiting.. 18 still on field
+[Soccer: 20]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 16 still on field
+[Soccer: 26]: Tired, I am quiting.. 16 still on field
+[Soccer: 24]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: There are 14 on field!
+[Soccer: 9]: Tired, I am quiting.. 16 still on field
+[Soccer: 9]: There are 16 on field!
+[Soccer: 31]: Tired, I am quiting.. 16 still on field
+[Soccer: 5]: There are 16 on field!
+[Soccer: 37]: Tired, I am quiting.. 16 still on field
+[Soccer: 26]: There are 16 on field!
+[Soccer: 3]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 16 on field!
+[Soccer: 7]: Tired, I am quiting.. 18 still on field
+[Soccer: 33]: Tired, I am quiting.. 18 still on field
+[Soccer: 27]: There are 16 on field!
+[Soccer: 19]: Tired, I am quiting.. 16 still on field
+[Soccer: 7]: There are 16 on field!
+[Soccer: 3]: There are 18 on field!
+[Soccer: 43]: There are 18 on field!
+[Soccer: 28]: There are 20 on field!
+[Soccer: 19]: There are 20 on field!
+[Soccer: 2]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 20]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 7]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: Tired, I am quiting.. 18 still on field
+[Soccer: 2]: Tired, I am quiting.. 18 still on field
+[Soccer: 26]: There are 16 on field!
+[Soccer: 3]: Tired, I am quiting.. 16 still on field
+[Soccer: 27]: There are 18 on field!
+[Soccer: 22]: There are 18 on field!
+[Soccer: 7]: There are 20 on field!
+[Soccer: 28]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 1]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 1]: There are 20 on field!
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 42]: Tired, I am quiting.. 18 still on field
+[Soccer: 8]: There are 18 on field!
+[Soccer: 41]: There are 20 on field!
+[Soccer: 24]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 17]: Tired, I am quiting.. 22 still on field
+[Soccer: 4]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 17]: There are 22 on field!
+[Soccer: 16]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 16]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 43]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 7]: Tired, I am quiting.. 18 still on field
+[Soccer: 7]: There are 18 on field!
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 27]: Tired, I am quiting.. 18 still on field
+[Soccer: 28]: There are 18 on field!
+[Soccer: 13]: There are 20 on field!
+[Soccer: 18]: There are 20 on field!
+[Soccer: 2]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 7]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 16 on field!
+[Soccer: 20]: Tired, I am quiting.. 18 still on field
+[Soccer: 14]: There are 18 on field!
+[Soccer: 28]: Tired, I am quiting.. 18 still on field
+[Soccer: 20]: There are 18 on field!
+[Soccer: 13]: Tired, I am quiting.. 16 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 40]: There are 20 on field!
+[Soccer: 13]: There are 22 on field!
+[Soccer: 1]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 1]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 17]: Tired, I am quiting.. 20 still on field
+[Soccer: 43]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 20]: There are 22 on field!
+[Soccer: 8]: Tired, I am quiting.. 22 still on field
+[Soccer: 13]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 24]: Tired, I am quiting.. 18 still on field
+[Soccer: 13]: There are 18 on field!
+[Soccer: 8]: There are 20 on field!
+[Soccer: 38]: There are 20 on field!
+[Soccer: 0]: There are 22 on field!
+[Soccer: 12]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 12]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 1]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: There are 20 on field!
+[Soccer: 43]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: Tired, I am quiting.. 18 still on field
+[Soccer: 37]: There are 18 on field!
+[Soccer: 43]: There are 20 on field!
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 13]: Tired, I am quiting.. 18 still on field
+[Soccer: 36]: There are 18 on field!
+[Soccer: 18]: There are 20 on field!
+[Soccer: 41]: There are 20 on field!
+[Soccer: 26]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 2]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 20]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 26]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 8]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: There are 20 on field!
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: Tired, I am quiting.. 18 still on field
+[Soccer: 32]: There are 18 on field!
+[Soccer: 5]: There are 20 on field!
+[Soccer: 29]: There are 20 on field!
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 13]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 0]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 43]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 2]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: Tired, I am quiting.. 18 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 38]: There are 20 on field!
+[Soccer: 1]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 13]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 22 on field!
+[Soccer: 16]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 22 on field!
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 43]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: Tired, I am quiting.. 18 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 18 on field!
+[Soccer: 36]: There are 20 on field!
+[Soccer: 26]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 21]: There are 20 on field!
+[Soccer: 32]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: Tired, I am quiting.. 18 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 29]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 40]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 1]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 14]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 16]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: There are 20 on field!
+[Soccer: 16]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 26]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 43]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 25]: There are 20 on field!
+[Soccer: 8]: There are 22 on field!
+[Soccer: 6]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 26]: There are 20 on field!
+[Soccer: 6]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 17]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 26]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 26]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 21]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 32]: There are 14 on field!
+[Soccer: 15]: Tired, I am quiting.. 18 still on field
+[Soccer: 23]: Tired, I am quiting.. 18 still on field
+[Soccer: 15]: There are 14 on field!
+[Soccer: 41]: Tired, I am quiting.. 16 still on field
+[Soccer: 40]: There are 16 on field!
+[Soccer: 29]: Tired, I am quiting.. 16 still on field
+[Soccer: 23]: There are 18 on field!
+[Soccer: 37]: Tired, I am quiting.. 14 still on field
+[Soccer: 18]: Tired, I am quiting.. 18 still on field
+[Soccer: 14]: Tired, I am quiting.. 16 still on field
+[Soccer: 11]: There are 16 on field!
+[Soccer: 5]: Tired, I am quiting.. 14 still on field
+[Soccer: 29]: There are 18 on field!
+[Soccer: 18]: There are 18 on field!
+[Soccer: 21]: There are 12 on field!
+[Soccer: 5]: There are 20 on field!
+[Soccer: 41]: There are 16 on field!
+[Soccer: 27]: Tired, I am quiting.. 12 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 6]: Tired, I am quiting.. 22 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 6]: There are 22 on field!
+[Soccer: 26]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 26]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 42]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 8]: Tired, I am quiting.. 22 still on field
+[Soccer: 4]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: There are 20 on field!
+[Soccer: 11]: Tired, I am quiting.. 18 still on field
+[Soccer: 8]: There are 20 on field!
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: Tired, I am quiting.. 18 still on field
+[Soccer: 11]: There are 18 on field!
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 24]: There are 18 on field!
+[Soccer: 36]: Tired, I am quiting.. 18 still on field
+[Soccer: 27]: There are 18 on field!
+[Soccer: 41]: There are 20 on field!
+[Soccer: 36]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 15]: Tired, I am quiting.. 22 still on field
+[Soccer: 32]: Tired, I am quiting.. 20 still on field
+[Soccer: 32]: There are 20 on field!
+[Soccer: 15]: There are 22 on field!
+[Soccer: 21]: Tired, I am quiting.. 22 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 21]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: There are 20 on field!
+[Soccer: 18]: There are 20 on field!
+[Soccer: 8]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 24]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 18 on field!
+[Soccer: 28]: Tired, I am quiting.. 18 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 12]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 21]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 25]: Tired, I am quiting.. 18 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 22]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 17]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 8]: Tired, I am quiting.. 22 still on field
+[Soccer: 4]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: There are 20 on field!
+[Soccer: 8]: There are 22 on field!
+[Soccer: 30]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 0]: There are 22 on field!
+[Soccer: 12]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: There are 20 on field!
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 3]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 22 on field!
+[Soccer: 3]: Tired, I am quiting.. 20 still on field
+[Soccer: 3]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 42]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 4]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 3]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 3]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 16]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 33]: There are 18 on field!
+[Soccer: 0]: There are 20 on field!
+[Soccer: 12]: Tired, I am quiting.. 18 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 3]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 3]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 16]: Tired, I am quiting.. 22 still on field
+[Soccer: 3]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 16]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 4]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 30]: Tired, I am quiting.. 22 still on field
+[Soccer: 33]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 40]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 40]: There are 22 on field!
+[Soccer: 15]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 15]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 12]: Tired, I am quiting.. 22 still on field
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 12]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 32]: Tired, I am quiting.. 18 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 35]: There are 20 on field!
+[Soccer: 8]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 33]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 30]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 4]: Tired, I am quiting.. 18 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 4]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 33]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 33]: There are 22 on field!
+[Soccer: 12]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 12]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 8]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 8]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 3]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 4]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 33]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 33]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 3]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 20]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 34]: Tired, I am quiting.. 22 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 34]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 33]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 41]: Tired, I am quiting.. 18 still on field
+[Soccer: 33]: There are 20 on field!
+[Soccer: 11]: There are 20 on field!
+[Soccer: 6]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 4]: Tired, I am quiting.. 20 still on field
+[Soccer: 32]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 11]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 0]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 33]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 15]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 15]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 28]: There are 20 on field!
+[Soccer: 32]: Tired, I am quiting.. 18 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 35]: There are 20 on field!
+[Soccer: 10]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 37]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 37]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: There are 22 on field!
+[Soccer: 11]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 33]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 11]: Tired, I am quiting.. 18 still on field
+[Soccer: 19]: There are 18 on field!
+[Soccer: 20]: There are 20 on field!
+[Soccer: 31]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 18]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: There are 20 on field!
+[Soccer: 18]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 8]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 18 on field!
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 24]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 31]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 10]: Tired, I am quiting.. 22 still on field
+[Soccer: 42]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 10]: There are 22 on field!
+[Soccer: 28]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 28]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 32]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 33]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 31]: Tired, I am quiting.. 22 still on field
+[Soccer: 19]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 40]: Tired, I am quiting.. 22 still on field
+[Soccer: 28]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 40]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 37]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 4]: There are 22 on field!
+[Soccer: 12]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 31]: There are 20 on field!
+[Soccer: 12]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 6]: Tired, I am quiting.. 22 still on field
+[Soccer: 24]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 6]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 18 on field!
+[Soccer: 20]: Tired, I am quiting.. 18 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 25]: There are 20 on field!
+[Soccer: 21]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 38]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 38]: There are 22 on field!
+[Soccer: 34]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 34]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 32]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 34]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 24]: There are 20 on field!
+[Soccer: 34]: There are 22 on field!
+[Soccer: 40]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 40]: There are 22 on field!
+[Soccer: 15]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 15]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 19]: Tired, I am quiting.. 18 still on field
+[Soccer: 23]: There are 18 on field!
+[Soccer: 4]: There are 20 on field!
+[Soccer: 18]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 35]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 32]: There are 20 on field!
+[Soccer: 35]: There are 22 on field!
+[Soccer: 21]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 21]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 31]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 42]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 42]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 34]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 1]: There are 20 on field!
+[Soccer: 34]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 24]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 24]: There are 22 on field!
+[Soccer: 40]: Tired, I am quiting.. 22 still on field
+[Soccer: 39]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: There are 20 on field!
+[Soccer: 40]: There are 22 on field!
+[Soccer: 15]: Tired, I am quiting.. 22 still on field
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 15]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 4]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 30]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 25]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 1]: Tired, I am quiting.. 22 still on field
+[Soccer: 21]: Tired, I am quiting.. 20 still on field
+[Soccer: 18]: There are 20 on field!
+[Soccer: 1]: There are 22 on field!
+[Soccer: 17]: Tired, I am quiting.. 22 still on field
+[Soccer: 34]: Tired, I am quiting.. 20 still on field
+[Soccer: 31]: There are 20 on field!
+[Soccer: 17]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 10]: Tired, I am quiting.. 22 still on field
+[Soccer: 42]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 10]: There are 22 on field!
+[Soccer: 20]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 20]: There are 22 on field!
+[Soccer: 31]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 12]: Tired, I am quiting.. 22 still on field
+[Soccer: 16]: Tired, I am quiting.. 20 still on field
+[Soccer: 23]: There are 20 on field!
+[Soccer: 12]: There are 22 on field!
+[Soccer: 2]: Tired, I am quiting.. 22 still on field
+[Soccer: 6]: Tired, I am quiting.. 20 still on field
+[Soccer: 30]: There are 20 on field!
+[Soccer: 2]: There are 22 on field!
+[Soccer: 25]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 25]: There are 22 on field!
+[Soccer: 39]: Tired, I am quiting.. 22 still on field
+[Soccer: 24]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 39]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 40]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 15]: There are 22 on field!
+[Soccer: 1]: Tired, I am quiting.. 22 still on field
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 0]: There are 20 on field!
+[Soccer: 1]: There are 22 on field!
+[Soccer: 4]: Tired, I am quiting.. 22 still on field
+[Soccer: 18]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 4]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 17]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 23]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 31]: There are 20 on field!
+[Soccer: 23]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 2]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 35]: Tired, I am quiting.. 20 still on field
+[Soccer: 16]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 27]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 27]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 31]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 30]: Tired, I am quiting.. 22 still on field
+[Soccer: 23]: Tired, I am quiting.. 20 still on field
+[Soccer: 40]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 29]: Tired, I am quiting.. 22 still on field
+[Soccer: 10]: Tired, I am quiting.. 20 still on field
+[Soccer: 10]: There are 20 on field!
+[Soccer: 29]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 25]: Tired, I am quiting.. 20 still on field
+[Soccer: 34]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 5]: Tired, I am quiting.. 20 still on field
+[Soccer: 5]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 1]: Tired, I am quiting.. 22 still on field
+[Soccer: 27]: Tired, I am quiting.. 20 still on field
+[Soccer: 17]: There are 20 on field!
+[Soccer: 1]: There are 22 on field!
+[Soccer: 36]: Tired, I am quiting.. 22 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: There are 20 on field!
+[Soccer: 36]: There are 22 on field!
+[Soccer: 14]: Tired, I am quiting.. 22 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 12]: There are 20 on field!
+[Soccer: 14]: There are 22 on field!
+[Soccer: 16]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 39]: Tired, I am quiting.. 18 still on field
+[Soccer: 31]: There are 18 on field!
+[Soccer: 16]: There are 20 on field!
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 26]: There are 20 on field!
+[Soccer: 34]: Tired, I am quiting.. 18 still on field
+[Soccer: 29]: There are 20 on field!
+[Soccer: 22]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 41]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 15]: There are 20 on field!
+[Soccer: 41]: There are 22 on field!
+[Soccer: 0]: Tired, I am quiting.. 22 still on field
+[Soccer: 4]: Tired, I am quiting.. 20 still on field
+[Soccer: 20]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: There are 20 on field!
+[Soccer: 0]: There are 20 on field!
+[Soccer: 42]: Tired, I am quiting.. 20 still on field
+[Soccer: 42]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 30]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 32]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 14]: There are 20 on field!
+[Soccer: 32]: There are 22 on field!
+[Soccer: 26]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 31]: There are 20 on field!
+[Soccer: 26]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 29]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 22]: Tired, I am quiting.. 20 still on field
+[Soccer: 22]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 17]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 17]: There are 22 on field!
+[Soccer: 40]: Tired, I am quiting.. 22 still on field
+[Soccer: 1]: Tired, I am quiting.. 20 still on field
+[Soccer: 1]: There are 20 on field!
+[Soccer: 40]: There are 22 on field!
+[Soccer: 10]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 36]: There are 20 on field!
+[Soccer: 10]: There are 22 on field!
+[Soccer: 16]: Tired, I am quiting.. 22 still on field
+[Soccer: 14]: Tired, I am quiting.. 20 still on field
+[Soccer: 13]: There are 20 on field!
+[Soccer: 16]: There are 22 on field!
+[Soccer: 26]: Tired, I am quiting.. 22 still on field
+[Soccer: 31]: Tired, I am quiting.. 20 still on field
+[Soccer: 31]: There are 20 on field!
+[Soccer: 26]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 9]: Tired, I am quiting.. 20 still on field
+[Soccer: 9]: There are 20 on field!
+[Soccer: 22]: There are 22 on field!
+[Soccer: 19]: Tired, I am quiting.. 22 still on field
+[Soccer: 41]: Tired, I am quiting.. 20 still on field
+[Soccer: 41]: There are 20 on field!
+[Soccer: 19]: There are 22 on field!
+[Soccer: 30]: Tired, I am quiting.. 22 still on field
+[Soccer: 12]: Tired, I am quiting.. 20 still on field
+[Soccer: 37]: There are 20 on field!
+[Soccer: 30]: There are 22 on field!
+[Soccer: 13]: Tired, I am quiting.. 22 still on field
+[Soccer: 36]: Tired, I am quiting.. 20 still on field
+[Soccer: 27]: There are 20 on field!
+[Soccer: 13]: There are 22 on field!
+[Soccer: 31]: Tired, I am quiting.. 22 still on field
+[Soccer: 38]: Tired, I am quiting.. 20 still on field
+[Soccer: 38]: There are 20 on field!
+[Soccer: 31]: There are 22 on field!
+[Soccer: 5]: Tired, I am quiting.. 22 still on field
+[Soccer: 26]: Tired, I am quiting.. 20 still on field
+[Soccer: 2]: There are 20 on field!
+[Soccer: 5]: There are 22 on field!
+[Soccer: 9]: Tired, I am quiting.. 22 still on field
+[Soccer: 15]: Tired, I am quiting.. 20 still on field
+[Soccer: 35]: There are 20 on field!
+[Soccer: 9]: There are 22 on field!
+[Soccer: 22]: Tired, I am quiting.. 22 still on field
+[Soccer: 17]: Tired, I am quiting.. 20 still on field
+[Soccer: 6]: There are 20 on field!
+[Soccer: 0]: Tired, I am quiting.. 20 still on field
+[Soccer: 4]: Tired, I am quiting.. 18 still on field
+[Soccer: 41]: Tired, I am quiting.. 18 still on field
+[Soccer: 42]: Tired, I am quiting.. 16 still on field
+[Soccer: 32]: Tired, I am quiting.. 16 still on field
+[Soccer: 1]: Tired, I am quiting.. 14 still on field
+[Soccer: 27]: Tired, I am quiting.. 14 still on field
+[Soccer: 16]: Tired, I am quiting.. 12 still on field
+[Soccer: 31]: Tired, I am quiting.. 12 still on field
+[Soccer: 13]: Tired, I am quiting.. 10 still on field
+[Soccer: 9]: Tired, I am quiting.. 10 still on field
+[Soccer: 2]: Tired, I am quiting.. 8 still on field
+[Soccer: 40]: Tired, I am quiting.. 8 still on field
+[Soccer: 19]: Tired, I am quiting.. 6 still on field
+[Soccer: 30]: Tired, I am quiting.. 6 still on field
+[Soccer: 37]: Tired, I am quiting.. 4 still on field
+[Soccer: 38]: Tired, I am quiting.. 4 still on field
+[Soccer: 10]: Tired, I am quiting.. 2 still on field
+[Soccer: 35]: Tired, I am quiting.. 2 still on field
+[Soccer: 5]: Tired, I am quiting.. 0 still on field
+[Baseball: 0]: Entered the wait room..
+[Baseball: 1]: Entered the wait room..
+[Baseball: 2]: Entered the wait room..
+[Baseball: 3]: Entered the wait room..
+[Baseball: 4]: Entered the wait room..
+[Baseball: 5]: Entered the wait room..
+[Baseball: 6]: Entered the wait room..
+[Baseball: 7]: Entered the wait room..
+[Baseball: 8]: Entered the wait room..
+[Baseball: 9]: Entered the wait room..
+[Baseball: 10]: Entered the wait room..
+[Baseball: 11]: Entered the wait room..
+[Baseball: 12]: Entered the wait room..
+[Baseball: 13]: Entered the wait room..
+[Baseball: 14]: Entered the wait room..
+[Baseball: 15]: Entered the wait room..
+[Baseball: 16]: Entered the wait room..
+[Baseball: 17]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 0]: Exited the field..
+[Baseball: 17]: Exited the field..
+[Baseball: 16]: Exited the field..
+[Baseball: 1]: Exited the field..
+[Baseball: 2]: Exited the field..
+[Baseball: 3]: Exited the field..
+[Baseball: 4]: Exited the field..
+[Baseball: 5]: Exited the field..
+[Baseball: 6]: Exited the field..
+[Baseball: 8]: Exited the field..
+[Baseball: 7]: Exited the field..
+[Baseball: 10]: Exited the field..
+[Baseball: 9]: Exited the field..
+[Baseball: 12]: Exited the field..
+[Baseball: 11]: Exited the field..
+[Baseball: 15]: Exited the field..
+[Baseball: 13]: Exited the field..
+[Baseball: 14]: Last one exited..
+[Baseball: 18]: Entered the wait room..
+[Baseball: 19]: Entered the wait room..
+[Baseball: 20]: Entered the wait room..
+[Baseball: 21]: Entered the wait room..
+[Baseball: 22]: Entered the wait room..
+[Baseball: 23]: Entered the wait room..
+[Baseball: 24]: Entered the wait room..
+[Baseball: 25]: Entered the wait room..
+[Baseball: 26]: Entered the wait room..
+[Baseball: 27]: Entered the wait room..
+[Baseball: 28]: Entered the wait room..
+[Baseball: 30]: Entered the wait room..
+[Baseball: 29]: Entered the wait room..
+[Baseball: 31]: Entered the wait room..
+[Baseball: 32]: Entered the wait room..
+[Baseball: 33]: Entered the wait room..
+[Baseball: 34]: Entered the wait room..
+[Baseball: 35]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 35]: Exited the field..
+[Baseball: 20]: Exited the field..
+[Baseball: 19]: Exited the field..
+[Baseball: 33]: Exited the field..
+[Baseball: 18]: Exited the field..
+[Baseball: 21]: Exited the field..
+[Baseball: 22]: Exited the field..
+[Baseball: 23]: Exited the field..
+[Baseball: 24]: Exited the field..
+[Baseball: 25]: Exited the field..
+[Baseball: 26]: Exited the field..
+[Baseball: 27]: Exited the field..
+[Baseball: 28]: Exited the field..
+[Baseball: 30]: Exited the field..
+[Baseball: 29]: Exited the field..
+[Baseball: 31]: Exited the field..
+[Baseball: 32]: Exited the field..
+[Baseball: 34]: Last one exited..
+[Baseball: 0]: Entered the wait room..
+[Baseball: 17]: Entered the wait room..
+[Baseball: 16]: Entered the wait room..
+[Baseball: 1]: Entered the wait room..
+[Baseball: 2]: Entered the wait room..
+[Baseball: 3]: Entered the wait room..
+[Baseball: 4]: Entered the wait room..
+[Baseball: 5]: Entered the wait room..
+[Baseball: 6]: Entered the wait room..
+[Baseball: 8]: Entered the wait room..
+[Baseball: 7]: Entered the wait room..
+[Baseball: 10]: Entered the wait room..
+[Baseball: 9]: Entered the wait room..
+[Baseball: 12]: Entered the wait room..
+[Baseball: 11]: Entered the wait room..
+[Baseball: 15]: Entered the wait room..
+[Baseball: 13]: Entered the wait room..
+[Baseball: 14]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 14]: Exited the field..
+[Baseball: 17]: Exited the field..
+[Baseball: 0]: Exited the field..
+[Baseball: 16]: Exited the field..
+[Baseball: 1]: Exited the field..
+[Baseball: 2]: Exited the field..
+[Baseball: 3]: Exited the field..
+[Baseball: 4]: Exited the field..
+[Baseball: 5]: Exited the field..
+[Baseball: 6]: Exited the field..
+[Baseball: 8]: Exited the field..
+[Baseball: 7]: Exited the field..
+[Baseball: 10]: Exited the field..
+[Baseball: 9]: Exited the field..
+[Baseball: 12]: Exited the field..
+[Baseball: 11]: Exited the field..
+[Baseball: 15]: Exited the field..
+[Baseball: 13]: Last one exited..
+[Baseball: 35]: Entered the wait room..
+[Baseball: 20]: Entered the wait room..
+[Baseball: 19]: Entered the wait room..
+[Baseball: 33]: Entered the wait room..
+[Baseball: 18]: Entered the wait room..
+[Baseball: 21]: Entered the wait room..
+[Baseball: 22]: Entered the wait room..
+[Baseball: 23]: Entered the wait room..
+[Baseball: 24]: Entered the wait room..
+[Baseball: 25]: Entered the wait room..
+[Baseball: 26]: Entered the wait room..
+[Baseball: 27]: Entered the wait room..
+[Baseball: 28]: Entered the wait room..
+[Baseball: 30]: Entered the wait room..
+[Baseball: 29]: Entered the wait room..
+[Baseball: 31]: Entered the wait room..
+[Baseball: 32]: Entered the wait room..
+[Baseball: 34]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 34]: Exited the field..
+[Baseball: 32]: Exited the field..
+[Baseball: 35]: Exited the field..
+[Baseball: 20]: Exited the field..
+[Baseball: 19]: Exited the field..
+[Baseball: 33]: Exited the field..
+[Baseball: 18]: Exited the field..
+[Baseball: 21]: Exited the field..
+[Baseball: 22]: Exited the field..
+[Baseball: 23]: Exited the field..
+[Baseball: 24]: Exited the field..
+[Baseball: 25]: Exited the field..
+[Baseball: 26]: Exited the field..
+[Baseball: 27]: Exited the field..
+[Baseball: 28]: Exited the field..
+[Baseball: 30]: Exited the field..
+[Baseball: 29]: Exited the field..
+[Baseball: 31]: Last one exited..
+[Baseball: 14]: Entered the wait room..
+[Baseball: 17]: Entered the wait room..
+[Baseball: 0]: Entered the wait room..
+[Baseball: 16]: Entered the wait room..
+[Baseball: 2]: Entered the wait room..
+[Baseball: 1]: Entered the wait room..
+[Baseball: 3]: Entered the wait room..
+[Baseball: 4]: Entered the wait room..
+[Baseball: 5]: Entered the wait room..
+[Baseball: 6]: Entered the wait room..
+[Baseball: 8]: Entered the wait room..
+[Baseball: 7]: Entered the wait room..
+[Baseball: 10]: Entered the wait room..
+[Baseball: 9]: Entered the wait room..
+[Baseball: 11]: Entered the wait room..
+[Baseball: 12]: Entered the wait room..
+[Baseball: 15]: Entered the wait room..
+[Baseball: 13]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 13]: Exited the field..
+[Baseball: 14]: Exited the field..
+[Baseball: 17]: Exited the field..
+[Baseball: 0]: Exited the field..
+[Baseball: 16]: Exited the field..
+[Baseball: 2]: Exited the field..
+[Baseball: 1]: Exited the field..
+[Baseball: 3]: Exited the field..
+[Baseball: 5]: Exited the field..
+[Baseball: 4]: Exited the field..
+[Baseball: 6]: Exited the field..
+[Baseball: 8]: Exited the field..
+[Baseball: 7]: Exited the field..
+[Baseball: 10]: Exited the field..
+[Baseball: 9]: Exited the field..
+[Baseball: 11]: Exited the field..
+[Baseball: 12]: Exited the field..
+[Baseball: 15]: Last one exited..
+[Baseball: 34]: Entered the wait room..
+[Baseball: 32]: Entered the wait room..
+[Baseball: 35]: Entered the wait room..
+[Baseball: 20]: Entered the wait room..
+[Baseball: 19]: Entered the wait room..
+[Baseball: 33]: Entered the wait room..
+[Baseball: 18]: Entered the wait room..
+[Baseball: 21]: Entered the wait room..
+[Baseball: 22]: Entered the wait room..
+[Baseball: 23]: Entered the wait room..
+[Baseball: 24]: Entered the wait room..
+[Baseball: 25]: Entered the wait room..
+[Baseball: 26]: Entered the wait room..
+[Baseball: 27]: Entered the wait room..
+[Baseball: 28]: Entered the wait room..
+[Baseball: 30]: Entered the wait room..
+[Baseball: 29]: Entered the wait room..
+[Baseball: 31]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 31]: Exited the field..
+[Baseball: 29]: Exited the field..
+[Baseball: 30]: Exited the field..
+[Baseball: 35]: Exited the field..
+[Baseball: 34]: Exited the field..
+[Baseball: 32]: Exited the field..
+[Baseball: 33]: Exited the field..
+[Baseball: 20]: Exited the field..
+[Baseball: 19]: Exited the field..
+[Baseball: 18]: Exited the field..
+[Baseball: 22]: Exited the field..
+[Baseball: 21]: Exited the field..
+[Baseball: 23]: Exited the field..
+[Baseball: 25]: Exited the field..
+[Baseball: 24]: Exited the field..
+[Baseball: 26]: Exited the field..
+[Baseball: 28]: Exited the field..
+[Baseball: 27]: Last one exited..
+[Baseball: 13]: Entered the wait room..
+[Baseball: 14]: Entered the wait room..
+[Baseball: 17]: Entered the wait room..
+[Baseball: 0]: Entered the wait room..
+[Baseball: 16]: Entered the wait room..
+[Baseball: 2]: Entered the wait room..
+[Baseball: 1]: Entered the wait room..
+[Baseball: 3]: Entered the wait room..
+[Baseball: 5]: Entered the wait room..
+[Baseball: 4]: Entered the wait room..
+[Baseball: 6]: Entered the wait room..
+[Baseball: 7]: Entered the wait room..
+[Baseball: 8]: Entered the wait room..
+[Baseball: 10]: Entered the wait room..
+[Baseball: 9]: Entered the wait room..
+[Baseball: 11]: Entered the wait room..
+[Baseball: 12]: Entered the wait room..
+[Baseball: 15]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 15]: Exited the field..
+[Baseball: 12]: Exited the field..
+[Baseball: 14]: Exited the field..
+[Baseball: 13]: Exited the field..
+[Baseball: 17]: Exited the field..
+[Baseball: 0]: Exited the field..
+[Baseball: 2]: Exited the field..
+[Baseball: 16]: Exited the field..
+[Baseball: 3]: Exited the field..
+[Baseball: 1]: Exited the field..
+[Baseball: 5]: Exited the field..
+[Baseball: 4]: Exited the field..
+[Baseball: 6]: Exited the field..
+[Baseball: 8]: Exited the field..
+[Baseball: 7]: Exited the field..
+[Baseball: 9]: Exited the field..
+[Baseball: 10]: Exited the field..
+[Baseball: 11]: Last one exited..
+[Baseball: 31]: Entered the wait room..
+[Baseball: 29]: Entered the wait room..
+[Baseball: 30]: Entered the wait room..
+[Baseball: 35]: Entered the wait room..
+[Baseball: 34]: Entered the wait room..
+[Baseball: 32]: Entered the wait room..
+[Baseball: 33]: Entered the wait room..
+[Baseball: 20]: Entered the wait room..
+[Baseball: 19]: Entered the wait room..
+[Baseball: 18]: Entered the wait room..
+[Baseball: 22]: Entered the wait room..
+[Baseball: 21]: Entered the wait room..
+[Baseball: 23]: Entered the wait room..
+[Baseball: 25]: Entered the wait room..
+[Baseball: 24]: Entered the wait room..
+[Baseball: 26]: Entered the wait room..
+[Baseball: 28]: Entered the wait room..
+[Baseball: 27]: Enough players w/ cleared field!
+[Field]: Now playing Baseball...
+[Baseball: 27]: Exited the field..
+[Baseball: 31]: Exited the field..
+[Baseball: 29]: Exited the field..
+[Baseball: 30]: Exited the field..
+[Baseball: 35]: Exited the field..
+[Baseball: 34]: Exited the field..
+[Baseball: 32]: Exited the field..
+[Baseball: 33]: Exited the field..
+[Baseball: 20]: Exited the field..
+[Baseball: 19]: Exited the field..
+[Baseball: 18]: Exited the field..
+[Baseball: 22]: Exited the field..
+[Baseball: 21]: Exited the field..
+[Baseball: 23]: Exited the field..
+[Baseball: 25]: Exited the field..
+[Baseball: 24]: Exited the field..
+[Baseball: 26]: Exited the field..
+[Baseball: 28]: Last one exited..
+[Football: 1]: Entered the wait room..
+[Football: 2]: Entered the wait room..
+[Football: 3]: Entered the wait room..
+[Football: 4]: Entered the wait room..
+[Football: 0]: Entered the wait room..
+[Football: 5]: Entered the wait room..
+[Football: 6]: Entered the wait room..
+[Football: 7]: Entered the wait room..
+[Football: 8]: Entered the wait room..
+[Football: 9]: Entered the wait room..
+[Football: 10]: Entered the wait room..
+[Football: 11]: Entered the wait room..
+[Football: 12]: Entered the wait room..
+[Football: 13]: Entered the wait room..
+[Football: 14]: Entered the wait room..
+[Football: 15]: Entered the wait room..
+[Football: 16]: Entered the wait room..
+[Football: 17]: Entered the wait room..
+[Football: 18]: Entered the wait room..
+[Football: 19]: Entered the wait room..
+[Football: 20]: Entered the wait room..
+[Football: 21]: Enough players w/ cleared field!
+[Field]: Now playing Football...
+[Football: 21]: Exited the field..
+[Football: 1]: Exited the field..
+[Football: 2]: Exited the field..
+[Football: 3]: Exited the field..
+[Football: 4]: Exited the field..
+[Football: 0]: Exited the field..
+[Football: 5]: Exited the field..
+[Football: 6]: Exited the field..
+[Football: 7]: Exited the field..
+[Football: 8]: Exited the field..
+[Football: 9]: Exited the field..
+[Football: 10]: Exited the field..
+[Football: 11]: Exited the field..
+[Football: 12]: Exited the field..
+[Football: 13]: Exited the field..
+[Football: 14]: Exited the field..
+[Football: 15]: Exited the field..
+[Football: 16]: Exited the field..
+[Football: 17]: Exited the field..
+[Football: 18]: Exited the field..
+[Football: 19]: Exited the field..
+[Football: 20]: Last one exited..
+[Football: 22]: Entered the wait room..
+[Football: 24]: Entered the wait room..
+[Football: 23]: Entered the wait room..
+[Football: 25]: Entered the wait room..
+[Football: 26]: Entered the wait room..
+[Football: 27]: Entered the wait room..
+[Football: 28]: Entered the wait room..
+[Football: 29]: Entered the wait room..
+[Football: 30]: Entered the wait room..
+[Football: 31]: Entered the wait room..
+[Football: 32]: Entered the wait room..
+[Football: 33]: Entered the wait room..
+[Football: 34]: Entered the wait room..
+[Football: 35]: Entered the wait room..
+[Football: 36]: Entered the wait room..
+[Football: 37]: Entered the wait room..
+[Football: 38]: Entered the wait room..
+[Football: 40]: Entered the wait room..
+[Football: 39]: Entered the wait room..
+[Football: 41]: Entered the wait room..
+[Football: 43]: Entered the wait room..
+[Football: 42]: Enough players w/ cleared field!
+[Field]: Now playing Football...
+[Football: 42]: Exited the field..
+[Football: 22]: Exited the field..
+[Football: 24]: Exited the field..
+[Football: 23]: Exited the field..
+[Football: 26]: Exited the field..
+[Football: 25]: Exited the field..
+[Football: 27]: Exited the field..
+[Football: 28]: Exited the field..
+[Football: 29]: Exited the field..
+[Football: 30]: Exited the field..
+[Football: 31]: Exit

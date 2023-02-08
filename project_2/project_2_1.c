@@ -468,8 +468,8 @@ int main()
     struct soccer Soccer[44];
 
     // Random play number for Baseball and football
-    Baseball_play_T = rand() % 3 + 1;
-    Football_play_T = rand() % 3 + 1;
+    Baseball_play_T = rand() % 4 + 1;
+    Football_play_T = rand() % 4 + 1;
 
     // create threads
     for (int i = 0; i < 44; i++)
@@ -484,7 +484,7 @@ int main()
         Football[i].playtime = 0;
         pthread_create(&football[i], NULL, &football_func, &Football[i]);
         Soccer[i].ID = i;
-        Soccer[i].playtime = rand() % 3;
+        Soccer[i].playtime = rand() % 3 + 1;
         pthread_create(&soccer[i], NULL, &soccer_func, &Soccer[i]);
     }
     pthread_create(&Game[0], NULL, &game_func, NULL);
